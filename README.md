@@ -1,2 +1,3 @@
-# tigago-cli
-tigago-cli是一个用来构建tigago程序的命令行界面
+# tiga-cli
+
+tiga-cli是个tiga生态的命令行程序
