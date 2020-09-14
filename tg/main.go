@@ -17,7 +17,7 @@ WEBSITE: https://github.com/tigateam/tiga-cli
 
 	app := &cli.App{
 		Name:  "version",
-		Usage: "show current binary version info | 显示当前版本信息",
+		Usage: "show current binary version info | 显示当前版本信息tg",
 		Action: func(c *cli.Context) error {
 			fmt.Println("v0.0.1")
 			return nil
