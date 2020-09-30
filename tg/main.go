@@ -1,4 +1,4 @@
-package tg
+package main
 
 import (
 	"fmt"
