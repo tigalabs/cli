@@ -1,4 +1,4 @@
-module github.com/tigateam/tg
+module github.com/tigateam/tiga-cli
 
 go 1.14
 
