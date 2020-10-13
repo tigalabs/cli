@@ -9,17 +9,23 @@ import (
 )
 
 func main() {
+	// 帮助信息模板
 	cli.AppHelpTemplate = fmt.Sprintf(`%s
 AUTHOR : TigaTeam
 
-WEBSITE: https://github.com/tigateam/tiga-cli
+GitHub: https://github.com/tigateam/tiga-cli
 `, cli.AppHelpTemplate)
 
 	app := &cli.App{
 		Name:  "version",
-		Usage: "show current binary version info | 显示当前版本信息tg",
+		Usage: "show current binary version info | 显示当前版本信息",
 		Action: func(c *cli.Context) error {
-			fmt.Println("v0.0.1")
+			fmt.Printf(`Tiga-CLI Tools v0.0.1
+Install Path:E:\WorkSpace\GoPath\bin\tg.exe
+Detail:	
+  Go Version: go1.14
+  TG version: tgv0.0.1
+			`)
 			return nil
 		},
 	}
