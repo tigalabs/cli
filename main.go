@@ -1,1 +1,1 @@
-package tiga
+package main
