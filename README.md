@@ -1,3 +1,3 @@
 # tiga-cli
 
-tiga-cli是个tiga生态的命令行程序
+tiga-cli是tiga生态的命令行程序
