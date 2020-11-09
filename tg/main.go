@@ -6,6 +6,13 @@ import (
 	"os"
 
 	"github.com/urfave/cli/v2"
+
+	_ "github.com/github.com/tigateam/tiga-cli/commands/create"
+	_ "github.com/github.com/tigateam/tiga-cli/commands/docker"
+	_ "github.com/github.com/tigateam/tiga-cli/commands/info"
+	_ "github.com/github.com/tigateam/tiga-cli/commands/run"
+	_ "github.com/github.com/tigateam/tiga-cli/commands/ui"
+	_ "github.com/github.com/tigateam/tiga-cli/commands/update"
 )
 
 func main() {
