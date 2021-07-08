@@ -36,9 +36,13 @@ English | [简体中文](README.zh-Hans.md)
 
 ## ℹ️ Introductions
 
+Tiga CLI is a command line tool for the entire Tiga ecosystem, which can be perfectly combined with the Tigago framework to improve development efficiency.
+
 <span id="nav-3-1"></span>
 
 ### 🔔 Official Website
+
+- [Official Website: https://cli.tigateam.org](https://cli.tigateam.org)
 
 <span id="nav-4"></span>
 
@@ -48,6 +52,12 @@ English | [简体中文](README.zh-Hans.md)
 
 ## ✳️ Features
 
+- View current and upgraded versions
+- Create project development base directory
+- Hot Start
+- Support native packaging and Docker packaging
+- Provides a GUI and web interface with the same functions as the command line
+
 <span id="nav-6"></span>
 
 ## 🍊 Architecture
@@ -55,6 +65,11 @@ English | [简体中文](README.zh-Hans.md)
 <span id="nav-7"></span>
 
 ## 💎 Getting Started
+
+```shell
+go install github.com/tigateam/tiga-cli/cmd/tiga
+
+```
 
 <span id="nav-8"></span>
 

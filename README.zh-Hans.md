@@ -36,9 +36,12 @@ Tiga 生态命令行工具
 
 ## ℹ️ 项目介绍
 
+Tiga CLI 是整个 Tiga 生态的命令行工具，可与 Tigago 框架完美结合，提高开发效率。
 <span id="nav-3-1"></span>
 
 ### 🔔 官网
+
+- [官方网站：https://cli.tigateam.org](https://cli.tigateam.org)
 
 <span id="nav-4"></span>
 
@@ -48,6 +51,12 @@ Tiga 生态命令行工具
 
 ## ✳️ 特征
 
+- 查看当前、升级版本
+- 创建项目开发基础目录
+- 热启动
+- 支持原生打包和 Docker 打包
+- 提供与命令行同样功能的 GUI 和 Web 界面
+
 <span id="nav-6"></span>
 
 ## 🍊 架构
@@ -55,6 +64,11 @@ Tiga 生态命令行工具
 <span id="nav-7"></span>
 
 ## 💎 快速开始
+
+```shell
+go install github.com/tigateam/tiga-cli/cmd/tiga
+
+```
 
 <span id="nav-8"></span>
 
