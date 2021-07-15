@@ -6,13 +6,6 @@ import (
 	"os"
 
 	"github.com/urfave/cli/v2"
-
-	_ "github.com/github.com/tigateam/tiga-cli/commands/create"
-	_ "github.com/github.com/tigateam/tiga-cli/commands/docker"
-	_ "github.com/github.com/tigateam/tiga-cli/commands/info"
-	_ "github.com/github.com/tigateam/tiga-cli/commands/run"
-	_ "github.com/github.com/tigateam/tiga-cli/commands/ui"
-	_ "github.com/github.com/tigateam/tiga-cli/commands/update"
 )
 
 func main() {
@@ -20,7 +13,7 @@ func main() {
 	cli.AppHelpTemplate = fmt.Sprintf(`%s
 AUTHOR : TigaTeam
 
-GitHub: https://github.com/tigateam/tiga-cli
+GitHub: https://github.com/tigateam/cli
 `, cli.AppHelpTemplate)
 
 	app := &cli.App{
