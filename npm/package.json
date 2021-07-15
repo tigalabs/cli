@@ -1,6 +1,6 @@
 {
   "name": "@tigateam/cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "",
   "scripts": {
@@ -11,7 +11,7 @@
   "goBinary": {
     "name": "tiga",
     "path": "./bin",
-    "url": "https://github.com/tigateam/cli/releases/download/v{{version}}/tiga_{{version}}_{{platform}}_{{arch}}.tar.gz"
+    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga_{{version}}_{{platform}}_{{arch}}.tar.gz"
   },
   "keywords": [
     "tiga",
