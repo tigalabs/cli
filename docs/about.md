@@ -1,5 +1,5 @@
-# 关于
+# About
 
-## 国际化
+## Internationalization
 
 [English](about.md) | [简体中文](./zh-Hans/about.md)
