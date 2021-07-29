@@ -9,28 +9,34 @@ Tiga Ecological Command Line Tool
 
 ## 🌏 Internationalization
 
-English | [简体中文](README.zh-Hans.md)
+[English](README.md) | [简体中文](README.zh-Hans.md)
 
 <span id="nav-2"></span>
 
 ## 📚 Contents
 
+<details open="open">
+  <summary>Click me to Open/Close the directory listing</summary>
+
 - [Internationalization](#nav-1)
 - [Contents](#nav-2)
 - [Introductions](#nav-3)
-  - [OfficialWebsite](#nav-3-1)
-- [Demo](#nav-4)
+  - [Official Website](#nav-3-1)
+- [Graphic Demo](#nav-4)
 - [Features](#nav-5)
 - [Architecture](#nav-6)
 - [Getting Started](#nav-7)
 - [Authors](#nav-8)
 - [Contributors](#nav-9)
   - [Community Exchange](#nav-9-1)
+- [Part Of Users](#nav-10)
 - [Release History](CHANGE.md)
 - [Donators](#nav-11)
 - [Sponsors](#nav-12)
 - [Thanks](#nav-13)
 - [License](#nav-14)
+
+</details>
 
 <span id="nav-3"></span>
 
@@ -82,6 +88,10 @@ go install github.com/tigateam/tiga-cli/cmd/tiga
 <span id="nav-9-1"></span>
 
 ### 😵 Community Exchange
+
+<span id="nav-10"></span>
+
+## 👼 Part Of Users
 
 <span id="nav-11"></span>
 
