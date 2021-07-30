@@ -15,7 +15,7 @@ Tiga 生态命令行工具
 
 ## 📚 内容目录
 
-<details open="open">
+<details>
   <summary>点我 打开/关闭 目录列表</summary>
   
 - [国际化](#nav-1)
