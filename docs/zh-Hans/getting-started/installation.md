@@ -2,7 +2,7 @@
 
 ## 国际化
 
-[English](../../installation.md) | [简体中文](installation.md)
+[English](../../getting-started/installation.md) | [简体中文](installation.md)
 
 ## 介绍
 
