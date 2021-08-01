@@ -1,5 +1,5 @@
-# Create Project
+# 创建项目
 
-## Internationalization
+## 国际化
 
 [English](create-project.md) | [简体中文](create-project.zh-Hans.md)

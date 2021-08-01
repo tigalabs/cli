@@ -1,5 +1,5 @@
-# Commands and Flags
+# 命令和参数
 
-## Internationalization
+## 国际化
 
 [English](commands-and-flags.md) | [简体中文](commands-and-flags.zh-Hans.md)

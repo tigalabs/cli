@@ -2,4 +2,4 @@
 
 ## Internationalization
 
-[English](installation.md) | [简体中文](../zh-Hans/getting-started/installation.md)
+[English](installation.md) | [简体中文](installation.zh-Hans.md)
