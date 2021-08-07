@@ -1,11 +1,11 @@
 {
   "name": "@tigateam/cli",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "🖥 Tiga Ecosystem Command Line Tool",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "go-npm install",
+    "postinstall": "go-npm install && node index.js",
     "preuninstall": "go-npm uninstall"
   },
   "keywords": [
@@ -16,8 +16,10 @@
   "author": "Misitebao",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.2",
     "go-npm": "^0.1.9"
   },
+  "type": "module",
   "goBinary": {
     "name": "tiga",
     "path": "./bin",
