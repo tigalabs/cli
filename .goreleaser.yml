@@ -19,6 +19,7 @@ builds:
       - linux
     goarch:
       - amd64
+    main: ./cmd/tiga/main.go
 #   - env:
 #       - CGO_ENABLED=0
 #     goos:
