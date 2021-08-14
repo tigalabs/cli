@@ -1,25 +1,34 @@
 {
   "name": "@tigateam/cli",
-  "version": "0.0.6",
-  "description": "",
+  "version": "0.0.7",
+  "description": "🖥 Tiga Ecosystem Command Line Tool",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "go-npm install",
     "preuninstall": "go-npm uninstall"
   },
-  "goBinary": {
-    "name": "tiga",
-    "path": "./bin",
-    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga_{{version}}_{{platform}}_{{arch}}.tar.gz"
-  },
   "keywords": [
     "tiga",
+    "tigacli",
     "tigateam"
   ],
   "author": "Misitebao",
   "license": "ISC",
   "dependencies": {
     "go-npm": "^0.1.9"
-  }
+  },
+  "goBinary": {
+    "name": "tiga",
+    "path": "./bin",
+    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga_{{version}}_{{platform}}_{{arch}}.tar.gz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigateam/tiga-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tigateam/tiga-cli/issues"
+  },
+  "homepage": "https://cli.tigateam.org"
 }
