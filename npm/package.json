@@ -1,6 +1,6 @@
 {
   "name": "@tigateam/cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "🖥 Tiga Ecosystem Command Line Tool",
   "main": "",
   "scripts": {
@@ -23,7 +23,7 @@
   "goBinary": {
     "name": "tiga",
     "path": "./bin",
-    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga_{{version}}_{{platform}}_{{arch}}.tar.gz"
+    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga_cli{{version}}_{{platform}}_{{arch}}.tar.gz"
   },
   "repository": {
     "type": "git",
