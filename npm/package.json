@@ -23,7 +23,7 @@
   "goBinary": {
     "name": "tiga",
     "path": "./bin",
-    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga_cli{{version}}_{{platform}}_{{arch}}.tar.gz"
+    "url": "https://github.com/tigateam/tiga-cli/releases/download/v{{version}}/tiga-cli_{{version}}_{{platform}}_{{arch}}.tar.gz"
   },
   "repository": {
     "type": "git",
