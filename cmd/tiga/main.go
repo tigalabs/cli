@@ -11,10 +11,10 @@ import (
 var (
 	app = &cli.App{
 		Name:    "Tiga CLI",
-		Version: "v0.0.8",
+		Version: "v0.1.0-beta.2",
 		Usage:   "Tiga Ecosystem Command Line Tool",
 		Authors: []*cli.Author{
-			&cli.Author{
+			{
 				Name:  "Misitebao",
 				Email: "i@misitebao.com",
 			},
