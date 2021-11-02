@@ -1,6 +1,6 @@
 {
   "name": "@tigateam/cli",
-  "version": "0.0.9",
+  "version": "0.1.0-beta.1",
   "description": "🖥 Tiga Ecosystem Command Line Tool",
   "main": "",
   "scripts": {
